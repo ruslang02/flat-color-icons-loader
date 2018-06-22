@@ -1,0 +1,27 @@
+{
+  "name": "flat-color-icons-loader",
+  "description": "A Node.js library for comfortable embedding Icons8 into web application",
+  "homepage": "https://github.com/ruslang02/flat-color-icons-loader",
+  "keywords": [
+    "material",
+    "flat",
+    "color",
+    "Icons8",
+    "loader",
+    "icon",
+    "icon pack"
+  ],
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslang02/flat-color-icons-loader.git"
+  },
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/ruslang02/flat-color-icons-loader/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+	"flat-color-icons": "^1.1.0"
+  }
+}
